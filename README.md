@@ -3,19 +3,24 @@ Collection of unix scripts/apps/notes that I've made use of over the years
 
 ## Directory Structure
 .\
-├── networking/\
+├── disk/\
 ├── mac/\
+├── networking/\
 ├── rc\_scripts/\
 ├── LICENSE\
 └── README.md
 
-## networking
+## disk
 
-Simple scripts for helping with network diagnosis.
+Simple disk related scripts (i.e. what are the largest directories)
 
 ## mac
 
 Simple unix scripts to help working on the mac
+
+## networking
+
+Simple scripts for helping with network diagnosis.
 
 ## rc\_scripts
 
