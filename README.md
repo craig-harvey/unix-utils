@@ -6,6 +6,7 @@ Collection of unix scripts/apps/notes that I've made use of over the years
 ├── disk/\
 ├── mac/\
 ├── networking/\
+├── process/\
 ├── rc\_scripts/\
 ├── LICENSE\
 └── README.md
@@ -21,6 +22,10 @@ Simple unix scripts to help working on the mac
 ## networking
 
 Simple scripts for helping with network diagnosis.
+
+## process
+
+Simple scripts for helping with process/performance diagnosis.
 
 ## rc\_scripts
 
